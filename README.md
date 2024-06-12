@@ -31,8 +31,8 @@
   </animated-image>
 </p> 
   
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning .Net and Js
+- 👀 I’m interested in Data 
+- 🌱 I’m currently learning Apache Airflow
 - 📫 How to reach me syahrulmunir96@gmail.com
 
  <h3 align="left" dir="auto"><a id="user-content-connect-with-me" class="anchor" aria-hidden="true" href="#"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd"></path></svg></a>Connect with me:</h3>
